@@ -4,7 +4,7 @@
 
 ## **mymath**相关
 
-|名称|状态|说明|地址|
+<!-- |名称|状态|说明|地址|
 |---|----|---|---|
 |**my**|**可用**|一个基础辅助功能的库，用于支持其余库。|https://github.com/gA4ss/my.git|
 |**mympz**|**可用**|整型的大数运算库。|https://github.com/gA4ss/mympz.git|
@@ -17,7 +17,22 @@
 |**mynlp**|**未完成**|非线性规划库。|https://github.com/gA4ss/mynlp.git|
 |**myfec**|**未完成**|有限元计算库。|https://github.com/gA4ss/myfec.git|
 |**myshow**|**未完成**|控制打印输出的库，支持**mymath**的打印输出。|https://github.com/gA4ss/myshow.git|
-|**mymath**|**未完成**|主程序实现语法解释器。|https://github.com/gA4ss/mymath.git|
+|**mymath**|**未完成**|主程序实现语法解释器。|https://github.com/gA4ss/mymath.git| -->
+
+|名称|说明|地址|
+|---|----|---|
+|**my**|一个基础辅助功能的库，用于支持其余库。|https://github.com/gA4ss/my.git|
+|**mympz**|整型的大数运算库。|https://github.com/gA4ss/mympz.git|
+|**mympf**|基于**mympz**的高精度浮点运算库。|https://github.com/gA4ss/mympf.git|
+|**mynum**|基于**mympz**与**mympf**的数值运算库，包含了各种基础函数的运算以及复数运算。因为number还有数论的意思，所以预计数论相关函数将来也会一并包含到此库中，是**mymath**的运算基础。|https://github.com/gA4ss/mynum.git|
+|**mymat**|线性代数运算库。|https://github.com/gA4ss/mymat.git|
+|**mysym**|符号运算库。|https://github.com/gA4ss/mysym.git|
+|**mylogic**|逻辑推理的库。|https://github.com/gA4ss/mylogic.git|
+|**mystat**|统计学库。|https://github.com/gA4ss/mystat.git|
+|**mynlp**|非线性规划库。|https://github.com/gA4ss/mynlp.git|
+|**myfec**|有限元计算库。|https://github.com/gA4ss/myfec.git|
+|**myshow**|控制打印输出的库，支持**mymath**的打印输出。|https://github.com/gA4ss/myshow.git|
+|**mymath**|主程序实现语法解释器。|https://github.com/gA4ss/mymath.git|
 
 ## 信息安全相关
 
