@@ -24,14 +24,21 @@
 |**my**|一个基础辅助功能的库，用于支持其余库。|https://github.com/gA4ss/my.git|
 |**mympz**|整型的大数运算库。|https://github.com/gA4ss/mympz.git|
 |**mympf**|基于**mympz**的高精度浮点运算库。|https://github.com/gA4ss/mympf.git|
-|**mynum**|基于**mympz**与**mympf**的数值运算库，包含了各种基础函数的运算以及复数运算。因为number还有数论的意思，所以预计数论相关函数将来也会一并包含到此库中，是**mymath**的运算基础。|https://github.com/gA4ss/mynum.git|
+|**mynum**|基于**mympz**与**mympf**的数值运算库，包含了各种基础函数的运算以及复数运算。是**mymath**的运算基础。|https://github.com/gA4ss/mynum.git|
 |**mymat**|线性代数运算库。|https://github.com/gA4ss/mymat.git|
 |**mysym**|符号运算库。|https://github.com/gA4ss/mysym.git|
+
+### 未来计划要开发的库
+
+|名称|说明|地址|
+|---|----|---|
 |**mylogic**|逻辑推理的库。|https://github.com/gA4ss/mylogic.git|
 |**mystat**|统计学库。|https://github.com/gA4ss/mystat.git|
+|**mynt**|数论算法库|https://github.com/gA4ss/mynt.git|
 |**mynlp**|非线性规划库。|https://github.com/gA4ss/mynlp.git|
 |**myfec**|有限元计算库。|https://github.com/gA4ss/myfec.git|
 |**myshow**|控制打印输出的库，支持**mymath**的打印输出。|https://github.com/gA4ss/myshow.git|
+|**myplot**|绘图库|https://github.com/gA4ss/myplot.git|
 |**mymath**|主程序实现语法解释器。|https://github.com/gA4ss/mymath.git|
 
 ## 信息安全相关
